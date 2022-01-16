@@ -30,7 +30,7 @@ function Signin({ isOpen, setIsOpen }) {
 
   const googleSignIn = () =>
     (window.location.href =
-      "https://zomatoclone-backend.herokuapp.com//auth/google");
+      "https://zomatoclone-backend.herokuapp.com/auth/google");
 
   return (
     <>
