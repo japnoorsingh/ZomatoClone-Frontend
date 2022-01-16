@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://hungry-jepsen-7f6038.netlify.app/delivery
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
